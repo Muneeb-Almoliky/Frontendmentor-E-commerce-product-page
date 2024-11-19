@@ -29,7 +29,6 @@ function ImagesSection(props) {
             <img src={prevIcon} alt="" className="prev-icon" onClick={(e) => {props.index<=0? props.handleImageIndex(0):props.handleImageIndex(props.index-1)}}/>
                 <img src={mainImage.image} alt="" onClick={() => {handleImageClick(true)}}/>
                 {imageClick && <LightBox imageIndex={mainImage.id} handleImageClick={handleImageClick}/>}
-                {/* <Image source={nextIcon} class={"next-icon"} onClick={() => {setValue(value++)}}/>         */}                
                 <img src={nextIcon} alt="" className="next-icon" onClick={(e) => {props.index>=images.length-1? props.handleImageIndex(images.length-1):props.handleImageIndex(props.index+1)}}/>                      
             </div>
             <div className="thumbnail-images" >

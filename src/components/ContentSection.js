@@ -8,9 +8,6 @@ import cart from '../images/icon-cart.svg';
 
 function ContentSection(props) {
     const [amount, setAmount] = useState(0);
-
-    
-
     return(
         <section className="content-section">
             <p className="sneaker-company">SNEAKER COMPANY</p>
