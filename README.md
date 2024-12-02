@@ -6,6 +6,7 @@ This is a solution to the [E-commerce product page challenge on Frontend Mentor]
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Screenshots](#screenshots)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -24,6 +25,15 @@ Users should be able to:
 - Switch the large product image by clicking on the small thumbnail images
 - Add items to the cart
 - View the cart and remove items from it
+
+### Screenshots
+
+<img src="./assets/home.jpeg" alt="Screenshot" style="width:50%; height:auto;">
+<img src="./assets/lightbox.jpeg" alt="Screenshot" style="width:50%; height:auto;">
+<img src="./assets/cart.jpeg" alt="Screenshot" style="width:50%; height:auto;">
+<img src="./assets/emptycart.jpeg" alt="Screenshot" style="width:50%; height:auto;">
+<img src="./assets/homemobile.jpeg" alt="Screenshot" style="width:160px; height:350px;">
+<img src="./assets/navmobile.jpeg" alt="Screenshot" style="width:160px; height:238px;">
 
 ## My process
 
